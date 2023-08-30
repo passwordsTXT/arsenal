@@ -59,5 +59,5 @@ multirelay -t <ip> -u ALL
 ## runfinger - Responder-related utility which will finger a single IP address or an IP subnet and will reveal if a target requires SMB Signing or not.
 #plateform/linux #target/remote #cat/RECON 
 ```
-runfinger -i <network_range>
+RunFinger.py -i <network_range>
 ```

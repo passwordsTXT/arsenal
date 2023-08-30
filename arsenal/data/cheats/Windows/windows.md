@@ -529,3 +529,11 @@ msfconsole -x "use exploit/windows/smb/ms17_010_eternalblue"
 ```
 
 = interface: eth0
+
+#plateform/linux  #target/remote  #cat/RECON 
+
+## Find Domain Controllers
+```
+nslookup _ldap._tcp.dc._msdcs
+```
+

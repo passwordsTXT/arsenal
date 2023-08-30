@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arsenal/data/cheats/Active_directory/Impacket/impacket-servertool-mitm.md",
+                "file": "arsenal/data/cheats/Cloud/aws.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relay",
+                "query": "azure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arsenal/data/cheats/Active_directory/Impacket/impacket-servertool-mitm.md",
+                "file": "arsenal/data/cheats/Cloud/aws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arsenal/data/cheats/Active_directory/Impacket/impacket-servertool-mitm.md",
+                "file": "arsenal/data/cheats/Cloud/aws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arsenal/data/cheats/Active_directory/Impacket/impacket-servertool-mitm.md"
+                "file": "arsenal/data/cheats/Cloud/aws.md"
               }
             }
           }
@@ -147,8 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d920e6eb7500120",
+  "active": "c7b5f2c64f0a0ead",
   "lastOpenFiles": [
+    "arsenal/data/cheats/Active_directory/Impacket/impacket-kerberos.md",
+    "arsenal/data/cheats/Active_directory/Impacket/impacket-execute.md",
+    "arsenal/data/cheats/Active_directory/Impacket/impacket.md",
+    "arsenal/data/cheats/Pwn/bof.md",
+    "arsenal/data/cheats/Wifi/wifi.md",
+    "arsenal/data/cheats/Tools/docker.md",
+    "arsenal/data/cheats/Active_directory/certipy.md",
+    "arsenal/data/cheats/Active_directory/cme.md",
+    "arsenal/data/cheats/Active_directory/coercer.md",
+    "arsenal/data/cheats/Active_directory/lsassy.md",
+    "arsenal/data/cheats/Active_directory/laps.md",
+    "arsenal/data/cheats/Active_directory/Impacket/impacket-servertool-mitm.md",
     "arsenal/data/cheats/Active_directory/responder.md",
     "README.md",
     "arsenal/data/cheats/Windows/windows.md",

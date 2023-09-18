@@ -121,14 +121,14 @@ cme smb <ip> -u <user> -p '<password>' -x 'quser'
 cme smb <ip> -u <user> -p '<password>' -x 'logoff <id_user>' --no-output
 ```
 
-## cme - local-auth
+## cme - local-auth password spray
 #plateform/linux #target/remote #port/445 #port/139 #protocol/smb #cat/ATTACK/CONNECT  
 
 ```bash
 cme smb <ip> -u <user> -p <password> --local-auth
 ```
 
-## cme - local-auth with hash
+## cme - local-auth with hash password spray
 #plateform/linux #target/remote #port/445 #port/139 #protocol/smb #cat/ATTACK/CONNECT 
 
 ```bash

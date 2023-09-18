@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arsenal/data/cheats/Cloud/aws.md",
+                "file": "my_cheats/dot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae8239f8ae16e722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my_cheats/dot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "azure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arsenal/data/cheats/Cloud/aws.md",
+                "file": "my_cheats/dot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arsenal/data/cheats/Cloud/aws.md",
+                "file": "my_cheats/dot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arsenal/data/cheats/Cloud/aws.md"
+                "file": "my_cheats/dot.md"
               }
             }
           }
@@ -147,24 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7b5f2c64f0a0ead",
+  "active": "ae8239f8ae16e722",
   "lastOpenFiles": [
+    "arsenal/data/cheats/Windows/windows.md",
+    "my_cheats/dot.md",
+    "arsenal/data/cheats/Active_directory/cme.md",
+    "arsenal/data/cheats/Active_directory/Impacket/impacket-secrets.md",
+    "arsenal/data/cheats/Password extraction/procdump.md",
+    "arsenal/data/cheats/Protocol/ldap.md",
+    "arsenal/data/cheats/Network/chisel.md",
+    "arsenal/data/cheats/Active_directory/Impacket/impacket.md",
+    "img/arsenal_update.png",
+    "img/arsenal.gif",
+    "arsenal/data/cheats/Password cracking/hashcat.md",
+    "arsenal/data/cheats/Password cracking/john.md",
+    "arsenal/data/cheats/Race Condition/racecondition.md",
+    "arsenal/data/cheats/Password extraction/mimikatz.md",
+    "arsenal/data/cheats/Password extraction/LAPS.md",
+    "arsenal/data/cheats/Password extraction/lazagne.md",
+    "arsenal/data/cheats/Mobile/Android/jadx.md",
+    "arsenal/data/cheats/Mobile/Android/apktool.md",
+    "arsenal/data/cheats/Mobile/Android/android.md",
+    "arsenal/data/cheats/Active_directory/bloodhound.md",
+    "arsenal/data/cheats/Active_directory/kerberos.md",
+    "arsenal/data/cheats/Cloud/aws.md",
     "arsenal/data/cheats/Active_directory/Impacket/impacket-kerberos.md",
     "arsenal/data/cheats/Active_directory/Impacket/impacket-execute.md",
-    "arsenal/data/cheats/Active_directory/Impacket/impacket.md",
     "arsenal/data/cheats/Pwn/bof.md",
     "arsenal/data/cheats/Wifi/wifi.md",
     "arsenal/data/cheats/Tools/docker.md",
-    "arsenal/data/cheats/Active_directory/certipy.md",
-    "arsenal/data/cheats/Active_directory/cme.md",
-    "arsenal/data/cheats/Active_directory/coercer.md",
-    "arsenal/data/cheats/Active_directory/lsassy.md",
-    "arsenal/data/cheats/Active_directory/laps.md",
-    "arsenal/data/cheats/Active_directory/Impacket/impacket-servertool-mitm.md",
-    "arsenal/data/cheats/Active_directory/responder.md",
-    "README.md",
-    "arsenal/data/cheats/Windows/windows.md",
-    "my_cheats/dot.md",
-    "my_cheats/FAQ.md"
+    "arsenal/data/cheats/Active_directory/certipy.md"
   ]
 }

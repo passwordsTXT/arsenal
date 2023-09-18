@@ -39,7 +39,7 @@ rwinsta <session_ID>
 ## PCredz
 #plateform/linux
 ```
-python3 /opt/Pcredz -i <eth_adapter> -v
+python3 /opt/PCredz/Pcredz -i <eth_adapter> -v
 ```
 ## PyPyKatz
 #plateform/linux #cat/CRACKING/PASSWORD 
